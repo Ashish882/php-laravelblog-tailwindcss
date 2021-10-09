@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+<div class="pb-20">
 <div class="w-4/5 m-auto text-left">
     <div class="py-15">
         <h1 class="text-4xl">
@@ -128,10 +129,9 @@
 
   </div>
 
-<div class="container flex justify-center mx-auto  font-sans">
- 
-</div>
 
+
+</div>
 
 @endsection
 @include('layouts.footer')

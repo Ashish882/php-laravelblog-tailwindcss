@@ -36,7 +36,7 @@
 
 <div class="flex gap-6 mb-2">
 <div class="flex-initial ">
-<img class="rounded-full h-24 w-24 " src="{{ asset('images/' . $post->image_path) }}" alt="">
+<img class="rounded-full h-24 w-24 " src="{{ asset('images/guest.png') }}" alt="">
 </div>
 
 <div class="flex-initial">
